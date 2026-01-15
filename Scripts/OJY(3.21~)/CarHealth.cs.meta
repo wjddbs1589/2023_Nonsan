@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 718c79ca4bbbebc499fedb88ead7e5fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePrefab: {fileID: 1804865220138716, guid: 95d6aa7f65151d34289e7d8fdbb720d4,
+      type: 3}
+  - smokePrefab: {fileID: 1193206252530958, guid: 0fe24a5ceb127f14eb19a30565685075,
+      type: 3}
+  - bonenet: {instanceID: 0}
+  - door1: {instanceID: 0}
+  - door2: {instanceID: 0}
+  - EnemyfirePrefab: {fileID: 1804865220138716, guid: 95d6aa7f65151d34289e7d8fdbb720d4,
+      type: 3}
+  - explosionSound: {fileID: 8300000, guid: 1b56f65d529e99b42841ba59b40de98f, type: 3}
+  - crashSound: {fileID: 8300000, guid: 1cc233d53be0b304da01b3e4d4482c65, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

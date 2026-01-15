@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eeca2bdb49576804a9696e69683d9c39
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosionSound1: {fileID: 8300000, guid: 93ddaa4239c13ec46a7c04c9ede4c2a3, type: 3}
+  - explosionSound2: {fileID: 8300000, guid: 407194eb20231b54e86c7c596b6a7d2c, type: 3}
+  - explosionSound3: {fileID: 8300000, guid: 6e7ca3c82bbb6a443a052c82e0b3d3ed, type: 3}
+  - explosionSound4: {fileID: 8300000, guid: 16b4b3a4592543844825ed3ca05bb310, type: 3}
+  - explosionSound5: {fileID: 8300000, guid: bc57bad584e705446b411944dcd5dd13, type: 3}
+  - explosionSound6: {fileID: 8300000, guid: eb5253a80676cbe4a89255a5336c8279, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

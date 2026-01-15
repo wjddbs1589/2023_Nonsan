@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 05b4e4fc83360e54aba1570cc1367d17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bloodSample: {fileID: 1582818038116428783, guid: 305202af1e9d5cf4999160be5e328ae8,
+      type: 3}
+  - weapon: {instanceID: 0}
+  - bulletPrefab: {fileID: 7050756295436598934, guid: 482900516c51ed844a56701b35ee563b,
+      type: 3}
+  - fixedGun: {instanceID: 0}
+  - rotateGun: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
